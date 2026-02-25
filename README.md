@@ -141,12 +141,14 @@ Real-world system implementation
 
   SQL injection attacks
 
-  Data breaches
-
-    Step 1:Create database
+  Step 1:create databas
+  
+        Create  databases movies;
   create database Movie-Ticket-Booking-project;
 
-    Step 2:use database
+  Step 2:use
+  
+    use movies;
 ---------------------
   Step 3:create table users
       
